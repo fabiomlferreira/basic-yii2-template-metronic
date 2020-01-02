@@ -31,3 +31,8 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+/tools/yarn-error.log
+
+/config/db.php
+/config/params.php
