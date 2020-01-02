@@ -36,3 +36,4 @@ tests/_support/_generated
 
 /config/db.php
 /config/params.php
+/config/web-local.php
